@@ -1,0 +1,1 @@
+-- F3. Khách chi tiêu cao (xem đề). Viết MỘT câu SELECT bên dưới, kết thúc bằng dấu ;

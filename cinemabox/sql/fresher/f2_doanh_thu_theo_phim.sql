@@ -1,0 +1,1 @@
+-- F2. Doanh thu theo phim (xem đề). Viết MỘT câu SELECT bên dưới, kết thúc bằng dấu ;
